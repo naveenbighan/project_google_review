@@ -16,5 +16,4 @@ To run this project, you'll need the following installed:
 - BeautifulSoup/Selenium (for web scraping)
 - Any sentiment analysis library like TextBlob, VADER, or custom model
 
-### Install the 
 
