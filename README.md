@@ -18,4 +18,4 @@ To run this project, you'll need the following installed:
 
 ### Install the necessary dependencies:
 ```bash
-pip install -r 
+
